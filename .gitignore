@@ -1,0 +1,36 @@
+# Entorno virtual
+venv/
+.env
+.vscode/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Base de datos SQLite
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# Entornos
+.env
+.venv
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Migraciones de Flask
+migrations/
